@@ -5,7 +5,7 @@ on:
 
 env:
   applicationfolder: spring-boot-hello-world-example
-  AWS_REGION: US East (N. Virginia) us-east-1
+  AWS_REGION: us-east-1
   S3BUCKET: cf-templates-1rncgj0ymtrwo-us-east-1
 
 jobs:
